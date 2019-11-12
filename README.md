@@ -9,3 +9,4 @@ The relevance of items for a user is measured based on the their PageRank scores
 ## Example
 In toy_example.py, the algorithm is tested for random graphs.
 [[images/toy_example.png]]
+![](https://github.com/azinmatin/prince/blob/master/images/toy_example.png)
