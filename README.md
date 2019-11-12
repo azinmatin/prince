@@ -8,4 +8,5 @@ The relevance of items for a user is measured based on the their PageRank scores
 
 ## Example
 In toy_example.py, the algorithm is tested on random graphs. For example, in the graph below, the user node is shown in red (node 12). The only item nodes in the graph are nodes 13 an 14. Node 14 has the higher PageRank score, hence the top recommendation. Deleting the red edges swaps the rank of the nodes 13 and 14, and makes node 13 the new top recommendation.
+
 ![toy_example](https://github.com/azinmatin/prince/blob/master/images/toy_example.png)
