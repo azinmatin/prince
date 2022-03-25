@@ -1,6 +1,8 @@
 
 prince_ij.csv: User judgments on the usefulness of PRINCE explanations
+
 credpaths_ij.csv: User judgments on the usefulness of CredPaths explanations
+Reference: Fan Yang, Ninghao Liu, Suhang Wang, and Xia Hu. 2018. Towards Interpretation of Recommender Systems with Sorted Explanation Paths. In ICDM.
 
 Each file contains three lines corresponding to the judgments of one user for one HIT. Each HIT contains 20 data points. 
 
